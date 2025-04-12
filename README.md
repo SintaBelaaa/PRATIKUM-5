@@ -108,7 +108,8 @@ Stop program background dengan utilitas kil
 -$ kill [Nomor PID]
 
 
-(https://github.com/user-attachments/assets/4c7299a9-24e5-4f0e-b9d1-c54da7ae9f59)
+![17444274024337899592783639603559](https://github.com/user-attachments/assets/18811ff7-d663-4322-88cf-743bdb3dbb99)
+
 
 6.History
 
