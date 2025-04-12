@@ -95,7 +95,8 @@ Jadikan program ke 1 sebagai foreground, tekan ^Z dan kembalikan program tersebu
 
 -$ bg
 
-(https://github.com/user-attachments/assets/8c311bee-1679-48c0-b7b6-fdf29b05a0f5)
+![17444273028238795719687939578870](https://github.com/user-attachments/assets/8e7fa08a-d94b-4689-8b47-77ed45ef24a9)
+
 
 Stop program background dengan utilitas kil
 
