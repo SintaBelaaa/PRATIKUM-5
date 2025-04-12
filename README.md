@@ -124,7 +124,8 @@ a).Ganti nilai HISTSIZE dari 1000 menjadi 20
 
 -$ history
 
-(https://github.com/user-attachments/assets/bfdf9aa0-81a9-42bd-b6a5-4ad30351223e)
+![17444274850683177475633054194411](https://github.com/user-attachments/assets/81111623-10a2-4d81-b4fe-f29d29aa9c54)
+
 
 b).Gunakan fasilitas history dengan mengedit instruksi baris ke 5 dari instruksi yang terakhir dilakukan
 
