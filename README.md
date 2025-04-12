@@ -64,7 +64,8 @@ hasil jalankan script tersebut : -$ ./p1.sh ; ./p3.sh ; ./p2.sh
 
 -$ ( ./p1.sh ; ./p3.sh ) &
 
-(https://github.com/user-attachments/assets/82823fe2-0724-4086-a981-356ef216285c)
+![17444269608235693824298108697129](https://github.com/user-attachments/assets/1f14d967-d218-4b65-badb-0325e55693bb)
+
 
 5.Jobs
 
