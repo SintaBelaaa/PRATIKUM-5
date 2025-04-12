@@ -33,7 +33,7 @@ Perbedaanya : terletak pada bagaimana lingkungan pengguna dikonfigurasi setelah 
 
 a).Edit file .bash_profile, ganti prompt PS1 dengan ‘>’.
 
-(https://github.com/user-attachments/assets/a566f7df-7384-405e-bdef-084e3ee0318a)
+![17444266171851488871814959631255](https://github.com/user-attachments/assets/9c794f20-1cf6-479e-a7f0-117d22644cdf)
 
 b).Eksperimen hasil PS1
 
