@@ -14,7 +14,8 @@ a).edit file profile /etc/profile dan tampilkan pesan
 
 b).Ganti nama /home/mahasiswa dengan nama anda sendiri. Pada setiap file tersebut, cantumkan instruksi echo.
 
-(https://github.com/user-attachments/assets/df0c7740-16ba-4a84-8275-ea97c297cc7a)
+![17444264665349019487986873171458](https://github.com/user-attachments/assets/0f3dd1c3-41f2-41c1-8500-aab35480a755)
+
 
 c).-Instruksi su bela dan exit
 
