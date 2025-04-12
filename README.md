@@ -25,7 +25,7 @@ c).-Instruksi su bela dan exit
 
 -instruksi su - bela dan exit 
 
-(https://github.com/user-attachments/assets/00d40437-f57d-4d28-9dc2-6e7c8a90992c)
+![17444265669782837200063324431588](https://github.com/user-attachments/assets/28f34f3b-accf-4d2d-a2c8-c8d3184e1808)
 
 Perbedaanya : terletak pada bagaimana lingkungan pengguna dikonfigurasi setelah perpindahan, jika menggunakan su bela maka hanya berpindah ke pengguna tersebut tanpa mengubah lingkungan secara penuh, direktori kerja tetap di tempat sebelumnya dan variabel lingkungan seperti $PATH serta $HOME masih mengikuti pengguna sebelumnya, sedangkan jika menggunakan su - bela maka perpindahan dilakukan secara penuh seperti simulasi login baru, direktori kerja akan berubah ke /home/bela dan variabel lingkungan akan diperbarui sesuai dengan pengguna bela.
 
