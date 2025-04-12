@@ -131,7 +131,8 @@ b).Gunakan fasilitas history dengan mengedit instruksi baris ke 5 dari instruksi
 
    -$ !-5
 
-(https://github.com/user-attachments/assets/06bb55fc-e142-4782-acde-056b83119dca)
+![17444275439944419150981707155977](https://github.com/user-attachments/assets/8b9b5c2d-bc27-47e5-8e83-e4c53c7486fd)
+
 
 c). Ulangi instruksi yang terakhir. Gunakan juga ^P dan ^N untuk bernavigasi pada history bufer
 
