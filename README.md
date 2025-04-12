@@ -132,4 +132,5 @@ e).Ulangi instruksi dengan prefix “ls”
 
    -$ !ls
 
-(https://github.com/user-attachments/assets/451392ad-d641-4276-a082-7fee1d0a9d50)
+
+![17444268586124409911638394454669](https://github.com/user-attachments/assets/a1254bc7-d03d-42fe-8ae8-8400f870327e)
