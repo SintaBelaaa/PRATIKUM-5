@@ -83,7 +83,8 @@ Hasil program yang dijalankan
 
 -$ jobs
 
-(https://github.com/user-attachments/assets/fdaa24f8-d6e3-4aa3-a304-dd6bd994eb2e)
+![1744427181873921063580395138269](https://github.com/user-attachments/assets/bf2ab943-7383-46a5-a9b6-89a58f7bad78)
+
 
 Jadikan program ke 1 sebagai foreground, tekan ^Z dan kembalikan program tersebut ke background
 
