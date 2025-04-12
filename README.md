@@ -19,7 +19,8 @@ b).Ganti nama /home/mahasiswa dengan nama anda sendiri. Pada setiap file tersebu
 
 c).-Instruksi su bela dan exit
 
-(https://github.com/user-attachments/assets/ed5feb0a-3ecf-45a2-9d64-c8690b982866)
+![17444265183345405602900745945072](https://github.com/user-attachments/assets/1414b5fa-7d11-4da4-be8a-b64b3b3db7b2)
+
 
 
 -instruksi su - bela dan exit 
