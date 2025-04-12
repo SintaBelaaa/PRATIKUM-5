@@ -118,7 +118,8 @@ a).Ganti nilai HISTSIZE dari 1000 menjadi 20
  -$ HISTSIZE=20
 
 
-(https://github.com/user-attachments/assets/f8ec34d6-5a30-4ac9-9621-834b00d9a5c1)
+![17444274484963104256206214036269](https://github.com/user-attachments/assets/5729167b-3aef-405c-89db-6ff43fea51b2)
+
 
 
 -$ history
