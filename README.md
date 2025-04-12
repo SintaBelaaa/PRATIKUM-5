@@ -9,9 +9,10 @@ KELAS : TK.2B
 
 a).edit file profile /etc/profile dan tampilkan pesan
 
-(https://github.com/user-attachments/assets/2eeb2277-1ef6-489c-a181-2620f063ab60)
+![17444263811747180715919173374771](https://github.com/user-attachments/assets/37209ad1-7e84-4c3a-9c9d-9873e95e9c99)
 
-b).b).Ganti nama /home/mahasiswa dengan nama anda sendiri. Pada setiap file tersebut, cantumkan instruksi echo.
+
+b).Ganti nama /home/mahasiswa dengan nama anda sendiri. Pada setiap file tersebut, cantumkan instruksi echo.
 
 (https://github.com/user-attachments/assets/df0c7740-16ba-4a84-8275-ea97c297cc7a)
 
