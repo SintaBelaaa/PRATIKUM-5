@@ -49,7 +49,8 @@ b).Eksperimen hasil PS1
 
 hasil jalankan script tersebut : -$ ./p1.sh ; ./p3.sh ; ./p2.sh
 
-(https://github.com/user-attachments/assets/44fcfaec-57ba-4741-899b-fde8f5552bce)
+![17444267628886352806487697998830](https://github.com/user-attachments/assets/8a3a5ff9-551b-4cd5-bf3d-165654feea4d)
+
 
 -$ ./p1.sh &
 
