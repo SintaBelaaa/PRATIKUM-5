@@ -138,7 +138,8 @@ c). Ulangi instruksi yang terakhir. Gunakan juga ^P dan ^N untuk bernavigasi pad
 
    -$ !!
 
-(https://github.com/user-attachments/assets/96b0f289-dd8f-4785-a450-5c05f528ab79)
+![17444275925176999861934823451127](https://github.com/user-attachments/assets/9fe13ca9-51db-4de0-a9b8-47353758c494)
+
 
 e).Ulangi instruksi dengan prefix “ls”
 
