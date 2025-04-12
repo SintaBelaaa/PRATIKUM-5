@@ -37,7 +37,8 @@ a).Edit file .bash_profile, ganti prompt PS1 dengan ‘>’.
 
 b).Eksperimen hasil PS1
 
-(https://github.com/user-attachments/assets/06c9cbc0-e202-4217-89dc-63e32c1d364b)
+![17444266658048836369763555263364](https://github.com/user-attachments/assets/3e3284b8-3dbd-402f-b06f-cccc2de3068d)
+
 
 3.Log out
 
