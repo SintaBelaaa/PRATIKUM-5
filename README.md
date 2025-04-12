@@ -42,7 +42,8 @@ b).Eksperimen hasil PS1
 
 3.Log out
 
-(https://github.com/user-attachments/assets/3c678939-8904-448f-8702-5320651885cc)
+![1744426710904759135425148022926](https://github.com/user-attachments/assets/20c6e10d-2872-4b6b-acab-d42a316087b1)
+
 
 4.Bash script
 
