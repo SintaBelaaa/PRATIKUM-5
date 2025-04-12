@@ -73,7 +73,8 @@ Hasil program yang dijalankan
 
 -$ jobs
 
-(https://github.com/user-attachments/assets/f2e430f3-5112-4b15-a084-07e3ee137939)
+
+![17444270030517885635191788625432](https://github.com/user-attachments/assets/93aed829-044a-412d-9f61-8613fd029a5c)
 
  -$ find / -print > files 2>/dev/null &
 
