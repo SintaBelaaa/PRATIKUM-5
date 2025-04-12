@@ -90,7 +90,8 @@ Jadikan program ke 1 sebagai foreground, tekan ^Z dan kembalikan program tersebu
 
 -$ fg %1
 
-(https://github.com/user-attachments/assets/1ee53572-c337-4b41-963f-3d23acb19420)
+![1744427253338996042636908913141](https://github.com/user-attachments/assets/f64808c8-c27c-40b0-8a0f-b68836626552)
+
 
 -$ bg
 
